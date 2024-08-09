@@ -20,4 +20,4 @@ Este script Python é um sistema de gerenciamento para uma biblioteca. Ele permi
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/usuario/sistema-biblioteca.git
+   git clone https://github.com/mazarando/Livraria.git
